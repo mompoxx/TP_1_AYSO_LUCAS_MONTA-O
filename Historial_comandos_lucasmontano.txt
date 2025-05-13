@@ -1,0 +1,102 @@
+git clone [200~
+git clone 
+https://github.com/upszot/UTN-FRA_SO_Vagrant.git
+ls
+git clone https://github.com/upszot/UTN-FRA_SO_Vagr
+ls
+git clone https://github.com/upszot/UTN-FRA_SO_Vagrant.git
+ls
+ls -l
+cd VagrantFiles/
+cd1_equipo
+cat VagrantFile
+cat VagrantFiles
+vagrant up
+vagrant ssh
+vagrant destroy 
+vagrant up
+vagrant up
+vagrant ssh
+vagrant halt
+vagrant up
+vagrant ssh
+vagrant halt
+vagrant up
+vagrant ssh
+vagrant halt
+vagrant up
+vagrant ssh
+git remote set-url origin https://github.com/mompoxx/TP_1_AYSO_LUCAS_MONTA-O.git
+git push origin master
+git push origin master
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+git add .
+git commit -m "feat: añadiendo info de cpu"
+git push origin master
+cat <<EOF >> README.md Alumno: <lucasmontano> División: <115> Turno: <M> EOF
+cat <<EOF >> README.md Alumno: lucasmontano División: 115 Turno: M EOF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git add README.md datos_usuarios.txt
+git add README.md datos_usuarios.txt
+ls -l
+find . -name "README.md"
+cd
+find . -name "README.md"
+cd /TP_1_AYSO_LUCAS_MONTA-O/README.md
+cd /TP_1_AYSO_LUCAS_MONTA-O
+pwd
+cd /c/
+cd /c/SO/repogit/UTN-FRA_SO_Vagrant/VagrantFiles/1_equipo
+cat <<EOF >> README.md Alumno: lucasmontano División: 115 Turno: M EOF
+git add README.md datos_usuarios.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push origin master
+
+git add README.md datos_usuarios.txt
+git add README.md dato_usuario.txt
+ls -l
+find /c/SO/repogit/UTN-FRA_SO_Vagrant -name "README.md"
+cd /c/SO/repogit/UTN-FRA_SO_Vagrant/VagrantFiles/1_equipo/TP_1_AYSO_LUCAS_MONTA-O/README.md
+cd /c/SO/repogit/UTN-FRA_SO_Vagrant/README.md
+cd /c/SO/repogit/UTN-FRA_SO_Vagrant/VagrantFiles/1_equipo/TP_1_AYSO_LUCAS_MONTA-O
+ls -l
+git add README.md
+git push origin master
+git add README.md git commit -m "ADD: Añadiendo README.md" git push origin master
+git add README.md
+git commit -m "ADD: añadienndo readme y datos de ussuario"
+git push
+mkdir -p ~/materia1/uni1 ~/materia1/uni2 ~/materia1/uni3 ~/materia2/uni1 ~/materia2/uni2 ~/materia2/uni3
+ls -R ~
+mkdir -p ~/tp_ayso_maximiliano_arrieta/{materia1,materia2}/{uni1,uni2,uni3}
+echo '#!/bin/bash' > ~/script_dir.sh
+echo 'mkdir -p ~/tp_ayso_maximiliano_arrieta/{materia1,materia2}/{uni1,uni2,uni3}' >> ~/script_dir.sh 
+touch script_dir.sh
+echo '#!/bin/bash' >> script_dir.sh echo 'mkdir -p ~/materia1/uni1 ~/materia1/uni2 ~/materia1/uni3 ~/materia2/uni1 ~/materia2/uni2 ~/materia2/uni3' >> script_dir.sh
+chmod +x script_dir.sh
+git add script_dir.sh
+git commit -m "ADD: Añadiendo script de creación de directorios"
+git push origin master
+git status
+git push
+history -a
